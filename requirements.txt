@@ -26,3 +26,4 @@ duckdb
 pandas 
 openai
 sentence-transformers
+streamlit
